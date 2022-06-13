@@ -1,0 +1,11 @@
+* Variables .- Datos almacenados en la memoria de la computadora.
+* Strings .- Un texto que se puede escribir con el teclado.
+* Funciones (argumentos, `return`)
+   Función.- Un conjunto de instrucciones para la computadora
+   Argumentos.- Datos que se colocan en la función para que esta funcione cundo lo necesite
+   'return' .- Orden para indicarle a la función que tiene que devolver un resultado
+* Declaraciones `if`
+   Una sentencia o conjunto de ordenes que permiten bifurcar el flujo de ordenes a traves de condiciones.
+* Valores booleanos (`true`, `false`)
+   true -- verdadero. El resultado que se obtiene al evaluar una condición, si esta condición se cumple
+   false -- falso. El resultado que se obtiene al evaluar una condición, si esta condición no se cumple

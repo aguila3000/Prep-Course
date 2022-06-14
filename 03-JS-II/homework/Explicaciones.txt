@@ -1,0 +1,4 @@
+* for  .- Es un bucle que se usa para repetir instrucciones o sentencias hasta que se cumpla una condición de conteo o secuencia
+* `&&` .- Es un operador condicional, que se usa para comparar condiciones. Devuelve verdadero cuando las dos condiciones a comparar son ciertas o verdaderas, falso en caso contrario.
+* `||` .- Es un operador condicional, que se usa para comparar condiciones. Devuelve verdadero cuando al menos una de las condiciones a comparar es cierta o verdadera, falso en caso contrario.
+* `!`  .- Es un operador condicional, se usa para cambiar el valor de una condición, de verdadero a falso, o de falso a verdadero.

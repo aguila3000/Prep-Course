@@ -1,0 +1,1 @@
+Arrays .- Es un lista de valores, que se pueden acceder y cambiar con indice.

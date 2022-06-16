@@ -1,0 +1,2 @@
+`prototype` .- Permite introducir métodos a objetos o clases ya existentes
+_Constructors_ (de Clases) .- Permite crea una instancia de una clase

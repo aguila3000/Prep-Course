@@ -1,0 +1,7 @@
+Objetos .- Instancia de una clase. Una clase es la definición de una estructura que contiene propiedades y métodos que permiten definir las características y comportamiento de un objeto.
+Propiedades .- Las propiedades son características que definen a un objeto.
+Métodos .- Son las rutinas que definen el comportamiento de un objeto.
+Bucle `for…in` .- Bucle para recorrer entre las propiedades de un objeto.
+Notación de puntos vs notación de corchetes
+ -La notación de puntos permite acceder a las propiedades de un modo directo usando el nombre que identifica la propiedad.
+ -La notación de corchetes permite acceder a las propiedades usando una cadena de caracteres con el nombre que identifica a la propiedad.

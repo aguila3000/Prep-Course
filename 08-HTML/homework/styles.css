@@ -1,0 +1,30 @@
+h1{
+  color: blueviolet;
+}
+
+img {
+  width: 400px;
+}
+
+#thirdDiv {
+  width: 500px;
+  height: 600px;
+  background-color: rgba(128,50,189,1);
+  padding: 50px;
+  border-style: solid;
+  border-width: 10px;
+  border-color: rgb(150,222,0);
+}
+
+#spanId{
+  font-size: 18px;
+  margin: 50px;
+}
+
+body {
+  background-image: url(fondo.webp);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

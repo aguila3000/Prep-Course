@@ -1,0 +1,58 @@
+@import url('@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');');
+
+body {
+  padding: 0;
+  margin: 0;
+  font-style: normal;
+  font-family: 'Roboto', sans-serif;
+  color: #666666;
+}
+.contenedor {
+  display: flex;
+  flex-direction: row;
+  align-items: left;
+  justify-content: left;
+}
+.columnaA{
+  width: 273px;
+  height: auto;
+  background-color: white;
+}
+.columnaB{
+  width: 100%;
+  height: auto;
+  background-color: #dedce6;
+}
+
+.foto{
+  width: 274px;
+  height: 313px;
+  background-image: url(foto.jpg);
+}
+
+.Telefono, .correo, .nacimiento, .nacionalidad{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+}
+
+.Educacion, .Experiencia, .Habilidades, .Expectativas {
+  padding: 20px;
+}
+
+.Titulo{
+  padding: 10px;
+  background-color: #355269;
+  color:white;
+}
+
+ul
+{
+  padding-top:  10px;
+  padding-bottom: 10px;
+  list-style-type: none;
+}
+
+.lExperiencia, .lHabilidades, .lExpectativas{
+  padding-left: 40px;
+}

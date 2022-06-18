@@ -11,14 +11,14 @@ function deObjetoAmatriz(objeto){
     }) ➞ [["D", 1], ["B", 2], ["C", 3]]*/
   //Escribe tu código aquí
 
-  let A=[];
+  let Matriz=[];
   for (var propiedad in objeto) {
     let B=[];
     B.push(propiedad);
     B.push(objeto[propiedad]);
-    A.push(B);
+    Matriz.push(B);
   }
-  return A;
+  return Matriz;
 }
 
 

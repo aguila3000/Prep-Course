@@ -13,10 +13,10 @@ function deObjetoAmatriz(objeto){
 
   let Matriz=[];
   for (var propiedad in objeto) {
-    let B=[];
-    B.push(propiedad);
-    B.push(objeto[propiedad]);
-    Matriz.push(B);
+    let elementos=[];
+    elementos.push(propiedad);
+    elementos.push(objeto[propiedad]);
+    Matriz.push(elementos);
   }
   return Matriz;
 }
